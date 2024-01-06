@@ -12,7 +12,7 @@ public class MyController {
 	public String getMessage()
 	{
 		
-		return "Hello Laghs. This is cool and u shud know that";
+		return "Hello Devi maa. This is cool and u shud know that";
 	}
 
 }
