@@ -9,7 +9,7 @@ public class MyController {
 	
 	@GetMapping("/message")
 	
-	public  getMessage()
+	public String getMessage()
 	{
 		
 		return "Hello. This is cool ";
